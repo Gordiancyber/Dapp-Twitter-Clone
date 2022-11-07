@@ -8,6 +8,6 @@
 - React.js 
 
 # Users can : 
-- Add tweet 
-- Delete tweet 
+- Add tweet easily
+- Delete tweet  easily
 
